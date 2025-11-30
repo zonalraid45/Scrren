@@ -16,7 +16,7 @@ Also please check [this](https://lichess.org/tournament/c0xp6D91) which prove sh
 -  Please see the following screenshots,the title of screenshots explains it all.
 
 ## Some confession
-  - Realboy shared email to shresthmah as he asked for it once,I also help many people if they need mail but I am never support of multiple account and account sharing.
+  - Realboy shared email to shresthmah as he asked for it once,I also help many people if they need mail but I am never support of multiple account and account sharing and when I gave mail I  never knew he would use it for multi ACC.
   - Please check the lichess account chats within Realboy and Suprats,Fivecmpercent,TheBeatenSnake,shresthmah2,BR_flash07
 
 ## Summary
