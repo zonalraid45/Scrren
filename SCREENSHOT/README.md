@@ -9,6 +9,7 @@ This document explains the situation regarding the misunderstanding about accoun
 
 ## Important Clarification
 It may appear from the logs that **we were involved in account sharing**, but this is **not true**.
+Also please check [this](https://lichess.org/tournament/c0xp6D91) which prove shresthmah and I was foe and many people knew it.
 
 - The access pattern was caused by the **temporary device overlap**.
 - **Realboy** is completely **innocent** and had **no involvement** in any account sharing.
